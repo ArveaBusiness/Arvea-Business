@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/ArveaBusiness/Arvea-Business/blob/main/sitemap.xml
